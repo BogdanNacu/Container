@@ -1,2 +1,2 @@
 sadf
-are we alone in .NET Universe :D
+are we alone in .NET Universe
